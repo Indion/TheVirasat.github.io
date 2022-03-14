@@ -10,9 +10,9 @@ The whole web-based application for making the access to heritage and traditiona
 So next time you are in the city , you know where you can get a true essence of **Tradition**
 
 # Web - Design Elements
-> The Website is developed by the people at **INDION TECHS. INC**
-> Google Fonts : For Superb looking font styles
-> Canva : For Graphics Designing 
-> Source Unsplash : For Jaw dropping pictures 
-> Google Images : For Creative Common Image assests
-> Font Awesome : For Dynamic Icons
+> The Website is developed by the people at **INDION TECHS. INC** |
+> Google Fonts : For Superb looking font styles|
+> Canva : For Graphics Designing |
+> Source Unsplash : For Jaw dropping pictures |
+> Google Images : For Creative Common Image assests |
+> Font Awesome : For Dynamic Icons |
