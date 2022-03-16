@@ -16,3 +16,4 @@ So next time you are in the city , you know where you can get a true essence of 
 > Source Unsplash : For Jaw dropping pictures |
 > Google Images : For Creative Common Image assests |
 > Font Awesome : For Dynamic Icons |
+> Formspree : For The Web-Embeded Form |
